@@ -1,2 +1,2 @@
-# -probability-theory
+# probability-theory
 Домашние задания по теорверу
